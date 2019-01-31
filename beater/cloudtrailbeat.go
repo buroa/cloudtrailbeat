@@ -18,7 +18,7 @@ import (
 	"github.com/elastic/beats/libbeat/logp"
 	"github.com/elastic/beats/libbeat/publisher"
 
-	"github.com/aidan-/cloudtrailbeat/config"
+	"github.com/buroa/cloudtrailbeat/config"
 )
 
 const logTimeFormat = "2006-01-02T15:04:05Z"

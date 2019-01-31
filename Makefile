@@ -1,5 +1,5 @@
 BEATNAME=cloudtrailbeat
-BEAT_DIR=github.com/aidan-/cloudtrailbeat
+BEAT_DIR=github.com/buroa/cloudtrailbeat
 SYSTEM_TESTS=false
 TEST_ENVIRONMENT=false
 ES_BEATS?=./vendor/github.com/elastic/beats

@@ -5,7 +5,7 @@ import (
 
 	"github.com/elastic/beats/libbeat/beat"
 
-	"github.com/aidan-/cloudtrailbeat/beater"
+	"github.com/buroa/cloudtrailbeat/beater"
 )
 
 var version = "0.1.0"
